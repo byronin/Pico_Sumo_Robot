@@ -6,7 +6,7 @@ Actually, the goal of this project was not to build a mini sumo robot, but to cr
 ## Sponsor
 [![](https://github.com/byronin/MQTT-DMD/blob/main/Hardware/PCBWay_logo.png)](https://www.pcbway.com/project/shareproject/LoRa_Module_for_Raspberry_Pi_Arduino_ESP8266_Testing_LoRa_under_sea_83c3da00.html)
 #### Thanks to PCBWay for handling PCB production.
-<a href="https://www.pcbway.com/project/shareproject/LoRa_Module_for_Raspberry_Pi_Arduino_ESP8266_Testing_LoRa_under_sea_83c3da00.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Raspberry_Pi_Pico_Robot_Controller_Mini_Sumo_Robot_a2ead701.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
   ## Schematic
 [![](https://github.com/byronin/Pico_Sumo_Robot/blob/main/Hardware/Schematic.png)](https://github.com/byronin/Pico_Sumo_Robot/blob/main/Hardware/Schematic.png)
